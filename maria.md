@@ -28,6 +28,7 @@ github:
               <div class = "response" id="B" onClick= "showGif('B')">Pasta</div>
               <div class = "response" id="C" onClick= "showGif('C')">Limes</div>
             </div>
+            <div id="choiceResponse" style="display: none"></div>
     </div>
     <script src="maria.js"></script>
 </body>
