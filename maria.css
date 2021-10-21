@@ -9,10 +9,10 @@
 #hello {
     width: 700px;
     position: absolute;
-    top:18px;
+    top:5px;
     text-align: center;
     padding : 15px;
-    font-size: 15px;
+    font-size: 12px;
     font-style: bold;
     
 }
