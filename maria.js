@@ -8,10 +8,10 @@ function showGif(response){
     choiceResponse.innerHTML += '<img src="https://media.giphy.com/media/5tw3kCvxXW1XrE6Dxj/giphy.gif" />';
     choiceResponse.style.display = "block";
   } else if (response = "Pasta") {
-    img = "";
+    choiceResponse.innerHTML += '<img src="https://media.giphy.com/media/5tw3kCvxXW1XrE6Dxj/giphy.gif" />';
     choiceResponse.style.display = "block";
   } else {
-    img = "";
+    choiceResponse.innerHTML += '<img src="https://media.giphy.com/media/5tw3kCvxXW1XrE6Dxj/giphy.gif" />';
     choiceResponse.style.display = "block";
   }
 }
