@@ -24,9 +24,9 @@ github:
         <div id="maria_quiz" style="display: block">
             <div id="statement">Some of my favorite things are...</div>
             <div id="responses">
-              <div class = "response" id="A">Fenway</div>
-              <div class = "response" id="B">Pasta</div>
-              <div class = "response" id="C">Limes</div>
+              <div class = "response" id="A" onClick= "showGif('A')">Fenway</div>
+              <div class = "response" id="B" onClick= "showGif('B')">Pasta</div>
+              <div class = "response" id="C" onClick= "showGif('C')">Limes</div>
             </div>
     </div>
     <script src="maria.js"></script>
