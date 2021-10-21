@@ -24,13 +24,3 @@
     padding : 10px;
     text-align: center;
 }
-.choice{
-    display: inline-block;
-    width : 135px;
-    text-align: center;
-    cursor: pointer;
-    padding : 5px;
-    color: SlateBlue;
-    background-color: #E1DEF5
-;
-}
