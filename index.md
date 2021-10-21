@@ -1,5 +1,5 @@
 ---
-
+title: Hi Wayfair, welcome to <em>GitHub Pages tutorial!</em>
 button-title: Home
 description: Let's talk about GitHub pages
 filename: index
