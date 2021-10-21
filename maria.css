@@ -1,1 +1,36 @@
-
+#container{
+    margin : 20px auto;
+    background-color: white;
+    height: 300px;
+    width : 700px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px 0px;
+    position: relative;
+}
+#statement {
+    width: 700px;
+    position: absolute;
+    top:20px;
+    text-align: center;
+    padding : 15px;
+    font-size: 15px;
+    font-style: italic;
+    
+}
+#choices{
+    width:700px;
+    position: absolute;
+    top : 110px;
+    padding : 10px;
+    text-align: center;
+}
+.choice{
+    display: inline-block;
+    width : 135px;
+    text-align: center;
+    cursor: pointer;
+    padding : 5px;
+    color: SlateBlue;
+    background-color: #E1DEF5
+;
+}
