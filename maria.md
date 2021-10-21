@@ -23,10 +23,9 @@ github:
         <div id="hello">Hello!</div>
         <div id="maria_quiz" style="display: block">
             <div id="statement">Some of my favorite things are...</div>
-            <div id="choices">
-                <button class="choice" id="A" ></button>
-                <button class="choice" id="B" ></button>
-            </div>
+            <div id="A">Fenway.</div>
+            <div id="B">Pasta</div>
+            <div id="C">Limes</div>
     </div>
     <script src="maria.js"></script>
 </body>
