@@ -20,12 +20,12 @@ github:
 </head>
 <body>
     <div id="container">
-        <div id="hello" onClick= "beginQuiz()">Hello!</div>
-        <div id="maria_quiz" style="display: none">
+        <div id="hello">Hello!</div>
+        <div id="maria_quiz" style="display: block">
             <div id="statement">Some of my favorite things are...</div>
             <div id="choices">
-                <button class="choice" id="A" onclick="checkAnswer('A')"></button>
-                <button class="choice" id="B" onclick="checkAnswer('B')"></button>
+                <button class="choice" id="A" ></button>
+                <button class="choice" id="B" ></button>
             </div>
     </div>
     <script src="maria.js"></script>
