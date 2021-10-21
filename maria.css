@@ -29,7 +29,7 @@
 #responses{
     width:700px;
     position: absolute;
-    top : 110px;
+    top : 80px;
     padding : 10px;
     text-align: center;
 }
@@ -46,5 +46,5 @@
 #choiceResponse {
     text-align: center;
     position: absolute;
-    top: 140px
+    top: 130px
 }
