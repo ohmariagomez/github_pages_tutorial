@@ -17,10 +17,20 @@
     font-style: italic;
     
 }
-#choices{
+#responses{
     width:700px;
     position: absolute;
     top : 110px;
     padding : 10px;
     text-align: center;
+}
+.response{
+    display: inline-block;
+    width : 135px;
+    text-align: center;
+    cursor: pointer;
+    padding : 5px;
+    color: SlateBlue;
+    background-color: #E1DEF5
+;
 }
