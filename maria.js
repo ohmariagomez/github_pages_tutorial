@@ -10,8 +10,10 @@ function showGif(response){
   } else if (response = "Pasta") {
     choiceResponse.innerHTML += '<img src="https://media.giphy.com/media/gzE15pfW1jxkI/giphy.gif" />';
     choiceResponse.style.display = "block";
-  } else {
+  } else if (response = "Limes") {
     choiceResponse.innerHTML += '<img src="https://media.giphy.com/media/Vm2qtmm2nxVP0ZJ96n/giphy.gif" />';
     choiceResponse.style.display = "block";
+  } else {
+    choiceResponse.style.display = "none";
   }
 }
