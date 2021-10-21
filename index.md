@@ -1,5 +1,5 @@
 ---
-title: Hi Wayfair, welcome to <em>GitHub Pages tutorial</em>!
+
 button-title: Home
 description: Let's talk about GitHub pages
 filename: index
@@ -15,6 +15,9 @@ In this file you can specify the theme your pages is using (if you want one) and
 - title
 - description
 
+### style.scss
+In this file, you can customize the colors in your theme
+
 ### index.md
 This is where you'll have the content of your main page. You can edit specific features of your page, such as:
 - title
@@ -28,6 +31,18 @@ This is where you'll have the content of your main page. You can edit specific f
 If you want to add multiple pages within your site, you can add multiple `file.md` files to your repo.
 
 ### file.css
+You can use CSS to format different objects defined in your HTML code in `file.md`
+
+This includes attributes like:
+- font size
+- colors
+- position on the page
+- changing attributes when something is clicked on
 
 ### file.js
+The javascript file is what defines the actions on your page and how the different objects interact with each other.
 
+For example:
+- show a new object when something is clicked on
+- keep track of the user's movements
+- allow an object to be clicked on
